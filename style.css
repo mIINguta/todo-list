@@ -232,6 +232,9 @@ footer ul i:hover{
     }
     .todo-content input{
         width: 100%;
-        text-align: center;          
+        text-align: center;       
     }
+    .todo-item label{
+        margin: 0;
+}
 }
